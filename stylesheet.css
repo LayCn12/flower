@@ -1,0 +1,43 @@
+.header {
+  background-image: url(https://s3-ap-northeast-1.amazonaws.com/flower-production-assets/assets/web/home/bg_header_pink-4704d42ed44908fb061e80afc515a93ab2fcbfd605c2580de486a4d980b2115a.jpg);
+  background-position: center bottom;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  min-height: 660px;
+  text-align: center;
+  position: relative;
+  padding-top: 48px;
+  }
+
+.header .logo {
+  margin: 0 auto 16px;
+  width: 131px;
+  height: 116px;
+  background-image: url(https://s3-ap-northeast-1.amazonaws.com/flower-production-assets/assets/web/home/header_logo-0dbc9cb7c037472d3bf71fde0c1d3efd708c2c2547e9ed3e420051ca826cdad8.png);
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+  
+}
+
+.header .tagline {
+  color: #ffffff;
+  font-size: 20px;
+  font-family: "Noto Sans JP", sans-serif;
+  font-weight: 400;
+  margin: 24px;
+}
+
+.download_pc .container .badge_appstore {
+  margin: 0 auto;
+  background-image: url(https://s3-ap-northeast-1.amazonaws.com/flower-production-assets/assets/web/home/Badge_Appstore-9f3fcecf66049829e600e6a1299fa1671b7c66c829f4a2a34ffd43ce946a71d7.png);
+  background-size: cover;
+  margin-right: 16px;
+}
+
+.download_pc .container.badge_googleplaystore {
+  margin: 0 auto;
+  background-image: url(https://s3-ap-northeast-1.amazonaws.com/flower-production-assets/assets/web/home/Badge_Googleplaystore-8a4acc6f065bfdaafb2029998f0a464d0ac4571b2b89210218c71e1ae4c8078a.png);
+  background-size: cover;
+}
